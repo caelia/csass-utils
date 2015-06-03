@@ -1,0 +1,2 @@
+(compile -O csass.scm)
+(install-program 'csass '("csass"))

@@ -1,0 +1,7 @@
+*.c
+*.so
+*.o
+*.sw?
+*.import.scm
+csass
+test_output.css
