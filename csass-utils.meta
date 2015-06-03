@@ -1,5 +1,5 @@
 ((license "BSD")
  (category web)
- (depends sass)
+ (depends sass args)
  (author "Matt Gushee")
  (synopsis "Various SASS tools."))

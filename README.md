@@ -1,4 +1,5 @@
-chicken-sass
+csass-utils
 ============
 
-A Chicken Scheme wrapper for [libsass](http://libsass.org), the C library implementation of the well-known CSS preprocessor. For full documentation, please visit [the egg document](http://wiki.call-cc.org/eggref/4/sass).
+This is a collection of command-line tools and convenience libraries for working
+with SASS.
